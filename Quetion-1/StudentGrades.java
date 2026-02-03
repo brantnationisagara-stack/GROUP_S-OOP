@@ -1,4 +1,4 @@
-package chatgpt.singlegrader;
+
 
 
 import java.util.Scanner;

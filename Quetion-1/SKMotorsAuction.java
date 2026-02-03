@@ -1,4 +1,4 @@
-package chatgpt.skmotorsauction;
+
 
 
 import java.util.Scanner;
